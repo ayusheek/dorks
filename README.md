@@ -1,3 +1,7 @@
 # dorks
 
-1. SSRF -> `inurl:"?url=http"`
+1. SSRF & Open Redirect
+
+```
+inurl:http
+```
